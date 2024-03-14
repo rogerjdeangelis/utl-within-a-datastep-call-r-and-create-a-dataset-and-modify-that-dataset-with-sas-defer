@@ -3,6 +3,9 @@ Within a datastep call r and create a dataset and modify that dataset with sas d
     %let pgm=utl-within-a-datastep-call-r-and-create-a-dataset-and-modify-that-dataset-with-sas-defer;
 
     Within a datastep call r and create a dataset and modify that dataset with sas defer
+    github                                                                                                                        
+    https://tinyurl.com/22y8rhw4                                                                                                  
+    https://github.com/rogerjdeangelis/utl-within-a-datastep-call-r-and-create-a-dataset-and-modify-that-dataset-with-sas-defer   
 
     Within a single datastep call R and create a regression sas dataset
     then read the r created dataset, record by record, and use sas
